@@ -1,4 +1,3 @@
-test
 # CML CI/CD Pipeline
 
 ## Introduction
